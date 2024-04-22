@@ -16,4 +16,4 @@ Formal Argumentation; Reasoning under Inconsistency; Judgment Aggregation; Non-c
 Recent News
 ======
 
-Visiting Research at LAMSADE
+Visiting Researcher at LAMSADE
