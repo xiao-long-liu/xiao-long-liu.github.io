@@ -25,7 +25,7 @@ author:
   name             : "Xiaolong Liu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Xiangtan, Hunan, China"
   employer         : "Xiangtan University"
   uri              : # URL
   email            : "liuxiaolong@xtu.edu.cn" 
@@ -35,8 +35,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=ZZ-mzgIAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
