@@ -1,7 +1,7 @@
 ---
 title: "Formal Argumentation"
 collection: teaching
-type: "Undergraduate course"
+type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Department of Philosophy, Xiangtan University"
 date: 2014-01-01
