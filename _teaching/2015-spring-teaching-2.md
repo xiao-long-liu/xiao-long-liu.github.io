@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to Logic"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Department of Philosophy, Xiangtan University"
 date: 2015-01-01
 location: "City, Country"
 ---
