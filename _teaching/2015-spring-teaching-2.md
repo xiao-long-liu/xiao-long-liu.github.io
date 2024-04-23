@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Logic"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Department of Philosophy, Xiangtan University"
 date: 2015-01-01
