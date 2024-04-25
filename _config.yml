@@ -21,7 +21,7 @@ repository               : "xiao-long-liu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_me.png"
   name             : "Xiaolong Liu / Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
