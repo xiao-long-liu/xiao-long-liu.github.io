@@ -1,5 +1,5 @@
 ---
-title: "An introduction to modal logic"
+title: "Introduction to modal logic"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
