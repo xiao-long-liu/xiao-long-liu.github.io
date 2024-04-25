@@ -17,3 +17,4 @@ Recent News
 ======
 
 Visiting Researcher at [LAMSADE](https://www.lamsade.dauphine.fr/fr.html) 
+
