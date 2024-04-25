@@ -24,7 +24,7 @@ author:
   avatar           : "profile_me.png"
   name             : "Xiaolong Liu / Ph.D."
   pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Xiangtan, Hunan, China"
   employer         : "Xiangtan University"
   uri              : # URL
