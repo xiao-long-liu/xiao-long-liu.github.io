@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-05-paper
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-09-21
-venue: 'ECSQARU'
+venue: 'Proceedings of ECSQARU'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Xiaolong Liu, Philippe Besnard, Sylvie Doutre, &quot;Inducing Inference Relations from Inconsistency Measures,&quot; in <i>The 16th European Conference on Symbolic and Quantitative Approaches with Uncertainty</i>, Springer, 2021, pp. 486–498.'
 ---

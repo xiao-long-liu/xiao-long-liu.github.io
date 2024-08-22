@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-05-paper
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-05-03
-venue: 'AAMAS'
+venue: 'Proceedings of AAMAS'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Xiaolong Liu and Weiwei Chen, &quot;Solid Semantics and Extension Aggregation Using Quota Rules Under Integrity Constraints,&quot; in <i>Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems</i>, 2021, pp. 1590–1592.'
 ---
