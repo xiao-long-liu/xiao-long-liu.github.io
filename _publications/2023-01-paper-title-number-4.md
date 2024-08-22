@@ -5,7 +5,7 @@ permalink: /publication/2023-01-paper-title-number-1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-01-01
 venue: 'International Journal of Approximate Reasoning'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Xiaolong Liu, Philippe Besnard, Sylvie Doutre. (2023). &quot;Paraconsistent Inference Relations Induced from Inconsistency Measures.&quot; <i>International Journal of Approximate Reasoning</i>, 152, pp. 183-197, Jan. 2023, <a href="https://doi-org.proxy.bu.dauphine.fr/10.1016/j.ijar.2022.10.006">https://doi-org.proxy.bu.dauphine.fr/10.1016/j.ijar.2022.10.006</a>.'
 ---
 
