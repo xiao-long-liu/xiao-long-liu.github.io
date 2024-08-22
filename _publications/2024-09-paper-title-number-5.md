@@ -1,7 +1,7 @@
 ---
 title: "On the Proportional Acceptability of Arguments in Abstract Argumentation"
 collection: publications
-# permalink: /publication/2024-09-paper
+permalink: /publication/2024-09-paper
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-09-17
 venue: 'Comma 2024 (forthcoming)'
