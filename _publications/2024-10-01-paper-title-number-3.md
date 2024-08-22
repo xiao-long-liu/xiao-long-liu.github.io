@@ -1,5 +1,5 @@
 ---
-title: "on the acceptability"
+title: "On the Proportional Acceptability of Arguments in Abstract Argumentation"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
