@@ -1,7 +1,7 @@
 ---
 title: "Solid Semantics for Abstract Argumentation Frameworks and the Preservation of Solid Semantic Properties"
 collection: publications
-permalink: /publication/2021-06-paper
+# permalink: /publication/2021-06-paper
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-05-01
 venue: 'EUMAS 2021'
