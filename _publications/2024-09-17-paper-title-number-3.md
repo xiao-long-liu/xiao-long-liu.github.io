@@ -1,10 +1,10 @@
 ---
-title: "On the Proportional Acceptability of Arguments in Abstract Argumentation"
+title: "Solid Semantics for Abstract Argumentation Frameworks and the Preservation of Solid Semantic Properties"
 collection: publications
-permalink: /publication/2024-09-17-paper-title-number-3
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2024-09-17
-venue: '10th International Conference on Computational Models of Argument, COMMA 2024'
+date: 2021-10-01
+venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
