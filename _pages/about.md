@@ -19,6 +19,6 @@ Research Interests
 Recent News
 ======
 
-- Extended abstract in [COMMA 2021](http://comma2024.krportal.org/program.html)
+- Extended abstract in [COMMA 2024](http://comma2024.krportal.org/program.html)
 - Visiting researcher at [LAMSADE](https://www.lamsade.dauphine.fr/fr.html) 
 
