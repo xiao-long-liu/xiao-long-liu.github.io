@@ -11,7 +11,10 @@ I am currently a Lecturer of Logic  at [the department of philosophy](https://bq
 
 Research Interests
 ======
-My research interests mainly concern formal argumentation, reasoning under inconsistency, and judgment Aggregation.
+
+- formal argumentation, 
+- reasoning under inconsistency
+- judgment Aggregation
 
 Recent News
 ======
