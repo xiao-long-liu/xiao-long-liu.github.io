@@ -12,9 +12,9 @@ I am currently a Lecturer of Logic  at [the department of philosophy](https://bq
 Research Interests
 ======
 
-- formal argumentation, 
-- reasoning under inconsistency
-- judgment Aggregation
+- Formal Argumentation
+- Reasoning under Rnconsistency
+- Rudgment Aggregation
 
 Recent News
 ======
