@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Lecturer of Logic](https://bqsy.xtu.edu.cn/info/1003/2346.htm) at Department of Philosophy, [Xiangtan University](https://en.xtu.edu.cn), China. I am currently a visiting researcher at [LAMSADE](https://www.lamsade.dauphine.fr/en/people/detail-cv/profile/xiaolong-liu.html) 
+I am a [Lecturer of Logic](https://bqsy.xtu.edu.cn/info/1003/2346.htm) at Department of Philosophy, [Xiangtan University](https://en.xtu.edu.cn), China. I am currently a visiting researcher at [LAMSADE](https://www.lamsade.dauphine.fr/en/people/detail-cv/profile/xiaolong-liu.html), France.
 
 
 Research Interests
