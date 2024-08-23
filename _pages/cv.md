@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Click [here](https://drive.google.com/file/d/1bIwHQKUIW8tDIoSs7tk8qc18mGOwDbcF/view?usp=share_link) to see my CV.
+Click [here](https://drive.google.com/file/d/1bIwHQKUIW8tDIoSs7tk8qc18mGOwDbcF/view?usp=share_link).
 
 <!-- 
 {% include base_path %}
