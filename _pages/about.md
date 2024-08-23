@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer of Logic  at [Department of Philosophy](https://bqsy.xtu.edu.cn) at  [Xiangtan University](https://en.xtu.edu.cn), China.
+I am currently [a Lecturer of Logic](https://bqsy.xtu.edu.cn/info/1003/2346.htm)  at [Department of Philosophy](https://bqsy.xtu.edu.cn) at  [Xiangtan University](https://en.xtu.edu.cn), China.
 
 Research Interests
 ======
