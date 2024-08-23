@@ -13,7 +13,7 @@ Research Interests
 ======
 
 - Formal Argumentation
-- Reasoning under Rnconsistency
+- Reasoning under Inconsistency
 - Rudgment Aggregation
 
 Recent News
