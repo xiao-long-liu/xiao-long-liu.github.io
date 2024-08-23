@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](https://drive.google.com/file/d/1bIwHQKUIW8tDIoSs7tk8qc18mGOwDbcF/view?usp=share_link)"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!-- 
 {% include base_path %}
 
 Education
@@ -61,3 +61,4 @@ Teaching
 
 Service
 ======
+ -->
