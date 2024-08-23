@@ -1,5 +1,5 @@
 ---
-title: "Solid semantics and extension aggregation using quota rules under integrity constraints"
+title: "Solid Semantics and Extension Aggregation Using Quota Rules Under Integrity Constraints"
 collection: publications
 permalink: /publication/2021-05-paper
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'

@@ -1,5 +1,5 @@
 ---
-title: "Paraconsistent inference relations induced from inconsistency measures"
+title: "Paraconsistent Inference Relations Induced from Inconsistency Measures"
 collection: publications
 permalink: /publication/2023-01-paper-title-number-1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'

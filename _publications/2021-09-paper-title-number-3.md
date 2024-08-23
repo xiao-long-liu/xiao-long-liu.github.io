@@ -1,5 +1,5 @@
 ---
-title: "Inducing inference relations from inconsistency measures"
+title: "Inducing Inference Relations from Inconsistency Measures"
 collection: publications
 permalink: /publication/2021-05-paper
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
