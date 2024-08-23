@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiaolong Liu / Homepage"
+title                    : "Xiaolong Liu | Homepage"
 title_separator          : "-"
 name                     : &name "Xiaolong Liu"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "xiao-long-liu.github.io"
 author:
   # Biographic information
   avatar           : "profile_me.png"
-  name             : "Xiaolong Liu / Ph.D."
+  name             : "Xiaolong Liu | Ph.D."
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Xiangtan, Hunan, China"
