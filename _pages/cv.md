@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: "[CV](https://drive.google.com/file/d/1bIwHQKUIW8tDIoSs7tk8qc18mGOwDbcF/view?usp=share_link)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+Click [here](https://drive.google.com/file/d/1bIwHQKUIW8tDIoSs7tk8qc18mGOwDbcF/view?usp=share_link) to see my CV.
+
 <!-- 
 {% include base_path %}
 
