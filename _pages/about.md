@@ -19,6 +19,6 @@ Research Interests
 Recent News
 ======
 
-- Extended abstract in [COMMA 2024](http://comma2024.krportal.org/program.html)
+- "On the Proportional Acceptability of Arguments in Abstract Argumentation", in Proceedings of [COMMA 2024](http://comma2024.krportal.org/program.html)
 - Visiting researcher at [LAMSADE](https://www.lamsade.dauphine.fr/fr.html) 
 
