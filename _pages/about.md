@@ -14,8 +14,8 @@ Research Interests
 ======
 
 - Formal Argumentation
-- Reasoning under Inconsistency
 - Judgment Aggregation
+- Reasoning under Inconsistency
 
 Recent News
 ======
