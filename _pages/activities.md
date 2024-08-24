@@ -5,11 +5,11 @@ redirect_from:
   - /activities.html
 ---
 
-**Reviewer**
+## Reviewer
 
 [Studies in Logic](https://studiesinlogic.sysu.edu.cn)
 
-**Subreviewer**
+## Subreviewer
 
 - ECAI (2024)
 - KR (2021)
