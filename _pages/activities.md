@@ -1,10 +1,16 @@
 ---
 title: "Activities"
-sitemap: false
 redirect_from: 
   - /activities/
   - /activities.html
 ---
----
 
-Sorry, but the page you were trying to view does not exist.
+**Reviewer**
+
+Studies in Logic
+
+**Subreviewer**
+
+- ECAI (2024)
+- KR (2021)
+- SUM (2024, 2021)
