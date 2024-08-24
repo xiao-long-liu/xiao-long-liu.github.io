@@ -2,7 +2,7 @@
 title: "Solid semantics and extension aggregation using quota rules under integrity constraints"
 collection: talks
 type: "Demonstration"
-permalink: /talks/2021-05-03-presentation-1
+permalink: /presentations/2021-05-03-demonstration-1
 venue: "AAMAS 2021"
 date: 2021-05-03
 location: "Online"
