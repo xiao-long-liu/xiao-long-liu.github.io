@@ -2,8 +2,7 @@
 title: "Activities"
 permalink: /activities/
 redirect_from: 
-  - /activities/
-  - /activities.html
+  - /activities
 ---
 
 ## Reviewer
