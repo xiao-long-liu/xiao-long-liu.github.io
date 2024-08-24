@@ -7,7 +7,7 @@ redirect_from:
 
 **Reviewer**
 
-Studies in Logic
+[Studies in Logic](https://studiesinlogic.sysu.edu.cn)
 
 **Subreviewer**
 
