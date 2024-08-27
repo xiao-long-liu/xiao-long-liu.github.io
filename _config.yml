@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Xiangtan, Hunan, China"
-  employer         : "Xiangtan University"
+  # employer         : "Xiangtan University"
+  myuniversity     : "https://en.xtu.edu.cn"
   uri              : # URL
   email            : "liuxiaolong@xtu.edu.cn" 
 
