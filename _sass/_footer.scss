@@ -98,6 +98,8 @@
   flex-wrap: wrap; /* 允许内容在必要时换行 */
   max-width: 1200px;
   margin: 0 auto;
+  font-family: $global-font-family;
+  font-size: $type-size-7;
 }
 
 .page__footer-copyright, .contact-info, .address-info {
