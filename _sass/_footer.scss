@@ -93,17 +93,22 @@
 
 .footer-container {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: space-around; /* 确保子元素之间有间隔 */
+  align-items: center; /* 垂直居中对齐 */
+  flex-wrap: wrap; /* 允许内容在必要时换行 */
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 20px;
 }
 
-.contact-info, .address-info {
+.page__footer-copyright, .contact-info, .address-info {
   padding: 10px;
+  flex: 1; /* 使所有子元素平均分配空间 */
 }
 
 .contact-info h2, .address-info h2 {
-  margin-bottom: 10px;
+  margin-bottom: 5px; /* 减少标题和内容之间的间隔 */
+}
+
+p {
+  margin: 5px 0; /* 统一段落间距 */
 }
