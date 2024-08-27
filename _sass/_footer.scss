@@ -11,10 +11,10 @@
   clear: both;
   /* sticky footer fix start */
   position: absolute;
-  bottom: auto;
+  bottom: 0em;
   height: auto;
   /* sticky footer fix end */
-  margin-top: ;
+  margin-top: 3em;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -68,7 +68,7 @@
   li {
     display: inline-block;
     padding-top: 5px;
-    padding-bottom: auto;
+    padding-bottom: 5px;
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
     text-transform: uppercase;
@@ -108,7 +108,7 @@
 }
 
 .footer-section h2 {
-  margin-bottom: auto; /* 减少标题和内容之间的间隔 */
+  margin-bottom: 1px; /* 减少标题和内容之间的间隔 */
   font-size: $type-size-7;
 }
 
