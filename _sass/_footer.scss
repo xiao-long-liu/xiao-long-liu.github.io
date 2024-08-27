@@ -91,26 +91,34 @@
   }
 }
 
+footer {
+  background-color: #333; /* 深灰色背景 */
+  color: #fff; /* 白色文字 */
+  padding: 20px 0;
+  text-align: center;
+}
+
 .footer-container {
   display: flex;
   justify-content: space-around; /* 确保子元素之间有间隔 */
-  align-items: flex-start; /* 子元素顶部对齐 */
-  flex-wrap: wrap; /* 允许内容在必要时换行 */
+  align-items: center; /* 垂直居中对齐 */
   max-width: 1200px;
   margin: 0 auto;
-  font-family: $global-font-family;
-  font-size: $type-size-7;
+  flex-wrap: wrap; /* 允许内容在必要时换行 */
 }
 
-.page__footer-copyright, .contact-info, .address-info {
+.contact-info, .address-info {
   padding: 10px;
   flex: 1; /* 使所有子元素平均分配空间 */
 }
 
-.contact-info h2, .address-info h2 {
-  margin-bottom: 5px; /* 减少标题和内容之间的间隔 */
+.contact-info p, .address-info p {
+  margin: 5px 0; /* 统一段落间距 */
+  font-size: 16px; /* 适中的字体大小 */
 }
 
-p {
-  margin: 5px 0; /* 统一段落间距 */
+@media (max-width: 600px) {
+  .footer-container {
+    flex-direction: column; /* 在小屏幕上将元素堆叠 */
+  }
 }
