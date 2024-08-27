@@ -90,3 +90,20 @@
     }
   }
 }
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.contact-info, .address-info {
+  padding: 10px;
+}
+
+.contact-info h2, .address-info h2 {
+  margin-bottom: 10px;
+}
