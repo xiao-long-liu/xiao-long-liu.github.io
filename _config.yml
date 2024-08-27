@@ -25,7 +25,8 @@ author:
   name             : "Xiaolong Liu / Ph.D."
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Xiangtan, Hunan, China"
+  # location         : "Xiangtan, Hunan, China"
+  mylocation       : "Xiangtan, Hunan, China"
   # employer         : "Xiangtan University"
   myuniversity     : "https://en.xtu.edu.cn"
   uri              : # URL
