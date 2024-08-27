@@ -94,7 +94,7 @@
 .footer-container {
   display: flex;
   justify-content: space-around; /* 确保子元素之间有间隔 */
-  align-items: center; /* 垂直居中对齐 */
+  align-items: flex-start; /* 子元素顶部对齐 */
   flex-wrap: wrap; /* 允许内容在必要时换行 */
   max-width: 1200px;
   margin: 0 auto;
