@@ -90,29 +90,3 @@
     }
   }
 }
-
-.footer-container {
-  display: flex;
-  justify-content: space-evenly; /* 等间距分布子元素 */
-  align-items: center; /* 垂直居中对齐 */
-  flex-wrap: wrap; /* 允许内容在必要时换行 */
-  max-width: 1200px;
-  margin: 0 auto;
-  font-family: $global-font-family;
-  font-size: $type-size-7;
-}
-
-.footer-section {
-  padding: 10px;
-  flex: 1; /* 使所有子元素平均分配空间，可根据需要调整 */
-}
-
-.footer-section h2 {
-  margin-bottom: 1px; /* 减少标题和内容之间的间隔 */
-  font-size: $type-size-7;
-}
-
-.footer-section p {
-  margin: 5px 0; /* 统一段落间距 */
-  font-size: $type-size-7;
-}
