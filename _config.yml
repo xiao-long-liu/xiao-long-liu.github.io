@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiaolong Liu / Homepage"
+title                    : "Xiaolong LIU / Homepage"
 title_separator          : "-"
-name                     : &name "Xiaolong Liu"
+name                     : &name "Xiaolong LIU"
 description              : &description "personal description"
 url                      : https://xiao-long-liu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "xiao-long-liu.github.io"
 author:
   # Biographic information
   avatar           : "profile_me.png"
-  name             : "Xiaolong Liu / Ph.D."
+  name             : "Xiaolong LIU / Ph.D."
   pronouns         : # example: "she/her"  
   bio              : ""
   # location         : "Xiangtan, Hunan, China"
