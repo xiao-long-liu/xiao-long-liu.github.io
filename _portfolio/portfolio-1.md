@@ -1,6 +1,6 @@
 ---
 title: "Inference Relations and Argumentation semantics in Formal Argumentation"
-excerpt: "National Social Science Foundation of China (23CZX062). Project Leader. In progress. <!-- <br/><img src='/images/500x300.png'> -->"
+excerpt: "National Social Science Foundation of China (23CZX062), project leader, in progress. <!-- <br/><img src='/images/500x300.png'> -->"
 collection: portfolio
 ---
 
