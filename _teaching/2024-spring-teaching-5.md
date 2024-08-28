@@ -3,7 +3,7 @@ title: "Formal Argumentation"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2024-spring-teaching-5
-venue: "Department of Philosophy, Xiangtan University, instructor."
+venue: "Department of Philosophy, Xiangtan University, instructor"
 date: 2024-01-01
 location: "Xiangtan, China"
 ---
