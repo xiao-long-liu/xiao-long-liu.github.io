@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Click [here](https://drive.google.com/file/d/1d9KQanRPvpm4YPX5_2a1p49IROkfq9Ab/view?usp=sharing).
+Click [here](https://drive.google.com/file/d/100XxMokTxYbmLcO3esKkIhKy32UM2LG8/view?usp=sharing).
 
 <!-- 
 {% include base_path %}
