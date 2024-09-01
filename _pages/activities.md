@@ -7,11 +7,11 @@ author_profile: true
 #   - /activities
 ---
 
-## Reviewer
+## Journal Reviewer
 
 - [Studies in Logic](https://studiesinlogic.sysu.edu.cn)
 
-## Subreviewer
+## Conference Reviewer
 
 - ECAI ([2024](https://www.ecai2024.eu))
 - KR ([2021](https://kr2021.kbsg.rwth-aachen.de))
