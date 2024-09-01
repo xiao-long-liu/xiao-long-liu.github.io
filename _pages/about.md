@@ -11,11 +11,9 @@ I am **Xiaolong Liu**, a Lecturer in Logic at [Department of Philosophy](https:/
 
 
 ## Research Interests
-<!-- ====== -->
 - Formal Argumentation
 - Judgment Aggregation
 - Reasoning under Inconsistency
 
 ## Recent News
-<!-- ====== -->
 - "On the Proportional Acceptability of Arguments in Abstract Argumentation", in Proceedings of [COMMA 2024](http://comma2024.krportal.org/program.html).
