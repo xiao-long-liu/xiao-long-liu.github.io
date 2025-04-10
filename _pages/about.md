@@ -20,4 +20,4 @@ I am **Xiaolong Liu**, a Lecturer in Logic at [Department of Philosophy](https:/
 ## Recent News
 <!-- ====== -->
 - PC member of [ECAI 2025](https://ecai2025.org)
-- Paper accepted in [CLAR 2025](https://www.zlaire.net/clar2025/)
+- Paper accepted at [CLAR 2025](https://www.zlaire.net/clar2025/)
