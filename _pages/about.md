@@ -19,5 +19,5 @@ I am **Xiaolong Liu**, a Lecturer in Logic at [Department of Philosophy](https:/
 
 ## Recent News
 <!-- ====== -->
-- PC member of [ECAI 2025](https://ecai2025.org)
-- Paper accepted at [CLAR 2025](https://www.zlaire.net/clar2025/)
+- Serving as a Program Committee member for [ECAI 2025](https://ecai2025.org)
+- Paper titled *“Proportional Acceptability of Arguments”* accepted at [CLAR 2025](https://www.zlaire.net/clar2025/)
