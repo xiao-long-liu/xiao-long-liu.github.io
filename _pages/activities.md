@@ -15,7 +15,7 @@ author_profile: true
 
 - IJCAI ([2025](https://2025.ijcai.org))
 - AAMAS ([2025](https://aamas2025.org))
-- ECAI ([2024](https://www.ecai2024.eu))
+- ECAI ([2025](https://ecai2025.org), [2024](https://www.ecai2024.eu))
 - KR ([2021](https://kr2021.kbsg.rwth-aachen.de))
 - PRIMA ([2024](https://sites.google.com/view/prima-2024/home))
 - SUM ([2024](https://sum2024.unipa.it), [2022](https://sum2022.sciencesconf.org))
