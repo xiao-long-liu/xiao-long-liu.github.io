@@ -11,7 +11,7 @@ author_profile: true
 
 - [Studies in Logic](https://studiesinlogic.sysu.edu.cn)
 
-## Conference PC member or Reviewer
+## Conference PC member / Reviewer
 
 - IJCAI ([2025](https://2025.ijcai.org))
 - AAMAS ([2025](https://aamas2025.org))
