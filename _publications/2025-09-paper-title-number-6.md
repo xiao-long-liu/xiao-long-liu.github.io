@@ -3,7 +3,7 @@ title: "Proportional Acceptability of Arguments"
 collection: publications
 permalink: /publication/2025-06-paper
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2024-06-11
+date: 2025-06-11
 venue: 'Lecture Notes in Artificial Intelligence'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Xiaolong Liu and Weiwei Chen. &quot; Proportional Acceptability of Arguments.&quot; In <i>Proceedings of 6th International Conference on Logic and Argumentation (CLAR 2025)</i>. Springer, 2025.'
