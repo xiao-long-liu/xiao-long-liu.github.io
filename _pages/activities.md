@@ -7,10 +7,6 @@ author_profile: true
 #   - /activities
 ---
 
-## Journal Reviewer
-
-- [Studies in Logic](https://studiesinlogic.sysu.edu.cn)
-
 ## Conference PC member / Reviewer
 
 - AAMAS ([2025](https://aamas2025.org))
@@ -21,3 +17,7 @@ author_profile: true
 - KR ([2021](https://kr2021.kbsg.rwth-aachen.de))
 - PRIMA ([2024](https://sites.google.com/view/prima-2024/home))
 - SUM ([2024](https://sum2024.unipa.it), [2022](https://sum2022.sciencesconf.org))
+
+## Journal Reviewer
+
+- [Studies in Logic](https://studiesinlogic.sysu.edu.cn)
