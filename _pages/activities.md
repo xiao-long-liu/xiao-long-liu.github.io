@@ -11,6 +11,7 @@ author_profile: true
 
 - AAMAS ([2025](https://aamas2025.org))
 - ARG&APP ([2025](https://argapp-workshop.github.io))
+- ArgU ([2025](https://argu2025.krportal.org))
 - ECAI ([2025](https://ecai2025.org), [2024](https://www.ecai2024.eu))
 - IJCAI ([2025](https://2025.ijcai.org))
 - IM ([2025](https://sites.google.com/view/im25))
