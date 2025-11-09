@@ -9,7 +9,7 @@ author_profile: true
 
 ## Conference PC member / Reviewer
 
-- AAMAS ([2026](https://cyprusconferences.org/aamas2026/)), ([2025](https://aamas2025.org))
+- AAMAS: International Conference on Autonomous Agents and Multiagent Systems ([2026](https://cyprusconferences.org/aamas2026/)), ([2025](https://aamas2025.org))
 - ARG&APP ([2025](https://argapp-workshop.github.io))
 - ArgU ([2025](https://argu2025.krportal.org))
 - ECAI ([2025](https://ecai2025.org), [2024](https://www.ecai2024.eu))
