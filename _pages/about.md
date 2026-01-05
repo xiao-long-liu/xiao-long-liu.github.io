@@ -20,7 +20,7 @@ I am **Xiaolong Liu**, a Lecturer in Logic at [Department of Philosophy](https:/
 
 <!-- ====== -->
 
-- “*Argumentation Semantics Based on Solid Admissibility and Preservation of Semantic Properties*”, accepted by the Journal of Logic and Computation.
+- 07/12/2025: Argumentation Semantics Based on Solid Admissibility and Preservation of Semantic Properties, accepted for publication in the Journal of Logic and Computation.
 - Serving as a PC member for [ARG&amp;APP 2025](https://argapp-workshop.github.io)
 - Serving as a PC member for [ECAI 2025](https://ecai2025.org)
 - Paper titled *“Proportional Acceptability of Arguments”* accepted at [CLAR 2025](https://www.zlaire.net/clar2025/)
