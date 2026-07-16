@@ -15,6 +15,7 @@ author_profile: true
 - IJCAI ([2025](https://2025.ijcai.org))
 - IM ([2025](https://sites.google.com/view/im25))
 - KR ([2021](https://kr2021.kbsg.rwth-aachen.de))
+- PRICAI ([2026](https://2026.pricai.org))
 - PRIMA ([2024](https://sites.google.com/view/prima-2024/home))
 - SUM ([2024](https://sum2024.unipa.it), [2022](https://sum2022.sciencesconf.org))
 
